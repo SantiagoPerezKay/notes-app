@@ -9,7 +9,7 @@ import { NoteProviderWrapper } from './contexts/note.context.jsx'
 createRoot(document.getElementById('root')).render(
 
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/notes-app">
       <NoteProviderWrapper>
         <App />
       </NoteProviderWrapper>
