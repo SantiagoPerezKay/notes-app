@@ -1,6 +1,7 @@
 # 📝 React Notes App
 
 Esta aplicación fue creada con el propósito de **poner en práctica conocimientos fundamentales de React y su ecosistema** moderno. Permite gestionar una lista de notas, agregarlas, editarlas y marcarlas como completadas.
+## LINK https://santiagoperezkay.github.io/notes-app/
 
 ## 🚀 ¿Qué hace la app?
 
